@@ -18,3 +18,6 @@ public class CodigoPrueba3 {
     // Rta: el codigo imprime una linea de asteriscos
   }
 }
+
+
+

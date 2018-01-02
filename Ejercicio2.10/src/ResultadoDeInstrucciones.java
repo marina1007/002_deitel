@@ -23,4 +23,6 @@ public class ResultadoDeInstrucciones {
     System.out.printf("%d = %d\n", (x + y), (y + x)); // muestra el resultado de x + y y luego el de y+x en la seg linea
 
   }
+
+
 }

@@ -14,3 +14,5 @@ public class CodigoPrueba5 {
     // Rta: imprime tres lineas de asteriscos con el formato establecido
   }
 }
+
+

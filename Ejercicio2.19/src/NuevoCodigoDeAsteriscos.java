@@ -13,3 +13,5 @@ public class NuevoCodigoDeAsteriscos {
     //Rta: lo que imprime es un triangulo rectangulo
   }
 }
+
+

@@ -19,3 +19,6 @@ public class CodigoPrueba {
     // Rta: el codigo imprime una figura
   }
 }
+
+
+

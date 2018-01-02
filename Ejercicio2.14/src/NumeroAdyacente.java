@@ -18,3 +18,5 @@ public class NumeroAdyacente {
     System.out.printf("\n %d  %d  %d  %d\n", (i + 1) , (i + 2) , (i + 3 ) , (i + 4));
   }
 }
+
+
